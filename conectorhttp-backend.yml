@@ -1,1 +1,2 @@
-message: Server Config OKKKK!
+spring:
+  profiles: default
