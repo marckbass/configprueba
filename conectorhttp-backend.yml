@@ -1,4 +1,4 @@
 spring:
   profiles: default
   
-  hola: "Server Config Okkkkkkkkkkk"
+  prueba: "Server Config Okkkkkkkkkkk"
